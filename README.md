@@ -37,3 +37,9 @@ git add <文件>
 git commit -m "说明这次改了什么"
 git push
 ```
+
+## AI 使用与规则
+
+- 本仓库的 AI 协助说明见 [`AI_USAGE.md`](AI_USAGE.md)。
+- 给 AI Agent 的项目规则见 [`AGENTS.md`](AGENTS.md)。
+- 仓库里**不允许**出现密码、Token、API Key 等敏感信息。
